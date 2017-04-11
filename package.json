@@ -1,0 +1,29 @@
+{
+  "name": "tmarkdown",
+  "version": "1.0.0",
+  "description": "Markdown parser for use with \"t\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidysource/tMarkdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "t"
+  ],
+  "author": "TidySource (Daniel Cobo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tidysource/tMarkdown/issues"
+  },
+  "homepage": "https://github.com/tidysource/tMarkdown#readme",
+  "dependencies": {
+    "markdown-it": "^8.3.1"
+  },
+  "devDependencies": {
+    "tidytest": "^1.0.1"
+  }
+}
