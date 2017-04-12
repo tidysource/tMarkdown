@@ -1,6 +1,6 @@
 {
   "name": "tmarkdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Markdown parser for use with \"t\"",
   "main": "index.js",
   "scripts": {
