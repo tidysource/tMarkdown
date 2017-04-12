@@ -20,7 +20,7 @@ test('tMarkdown()', function(assert){
 	var markdown = '# Hello world';
 	var result = {
 		_ext : '.html',
-		_content : '<h1>Hello world</h1>\n'
+		_content : '<h1>Hello world</h1>'
 	};
 
 	assert.deepEqual(result,
